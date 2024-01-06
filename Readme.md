@@ -76,7 +76,7 @@ Before you begin, make sure you have the following software installed on your ma
 
     This will start the React development server.
 
-9. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to see the MERN stack app in action.
+9. Open your web browser and navigate to [http://localhost:4000](http://localhost:4000) to see the MERN stack app in action.
 
 ## Folder Structure
 
