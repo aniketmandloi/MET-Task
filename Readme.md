@@ -13,7 +13,11 @@ Before you begin, make sure you have the following software installed on your ma
 
 ## Getting Started
 
-1. Unzip the folder
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/aniketmandloi/MET-Task
+    ```
 
 2. Navigate to the project directory:
 
